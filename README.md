@@ -19,6 +19,10 @@
 - [从源码解析Containerd容器启动流程](https://github.com/Forget-C/MyNotes/cri/containerd/run/index.md)
 - [更多分享文章...](https://github.com/Forget-C/MyNotes)
 
+`🌈 Projects to participate as contributors.`
+- [https://github.com/boz/kail](https://github.com/boz/kail)
+- [https://github.com/pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+
 <a href="https://github.com/Forget-C/MyNotes">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Forget-C&repo=MyNotes&theme=buefy" />
 </a>
