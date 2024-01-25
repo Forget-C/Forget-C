@@ -7,6 +7,7 @@
 - 🌱 I live in Beijing
 - 💞️ I like open source culture
 - 📫 How to reach me [www.cyisme.top](https://www.cyisme.top)
+
 ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/Forget-C/Forget-C)
 
 
@@ -20,6 +21,8 @@
 - [更多分享文章...](https://github.com/Forget-C/MyNotes)
 
 `🌈 Projects to participate as contributors.`
+- [https://github.com/yonahd/kor](https://github.com/yonahd/kor)
+- [https://github.com/derailed/popeye](https://github.com/derailed/popeye)
 - [https://github.com/robscott/kube-capacity](https://github.com/robscott/kube-capacity)
 - [https://github.com/boz/kail](https://github.com/boz/kail)
 - [https://github.com/pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
