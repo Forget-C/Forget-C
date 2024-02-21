@@ -8,7 +8,7 @@
 - 💞️ I like open source culture
 - 📫 How to reach me [www.cyisme.top](https://www.cyisme.top)
 
-![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/Forget-C/Forget-C)
+![CSDN](https://stats.justsong.cn/api/csdn?id=q1403539144)
 
 
 `😄 Share my technology.`
